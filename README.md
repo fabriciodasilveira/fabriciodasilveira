@@ -10,8 +10,8 @@
   <tr>
     <td width="70%"> 
       <ol>
-        <li> - 🔭 Trabalhando com Gestão de Pessoas </li> 
-       <li> - 🔭 Working with Data Science </li> 
+        <li> - 🔭 Gestão de Pessoas </li> 
+       <li> - 🔭  Desenvolvimento Web </li> 
         <li> - 🌱 Estudando Python e Frameworks </li> 
         <li> - 📫 How to reach me: ... </li> 
         <li> - 😄 Pronouns: He / Him </li> 
