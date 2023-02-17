@@ -18,13 +18,4 @@
       </ol>
     </td>
   </tr>
-  <tr>
-    <td>    
-        <picture>
-        <img src="https://github-readme-stats.vercel.app/api?username=lambizame&show_icons=true" />
-        </picture>
-   </td>
-    <td>
-      
-  </tr>
   </table>
